@@ -7,13 +7,13 @@ title: Research
 I am broadly interested in observational astronomy. I have authored papers on supernova explosions, tidal orbital decay of exoplanets, tidal disruption events, supernova cosmology, stellar evolution and galaxy clusters. Currently, I work on measuring polarized light from transient events like supernova explosions and tidal disruption events. In the past, my work led to the first detection of a hot Jupiter spiraling in to the host star due to tidal orbital decay. Below are some more details about my current and past work. 
 
 
-
-subtitle: Spectropolarimetry
-
-
-subtitle: Orbital decay of hot Jupiters
+### Spectropolarimetry
 
 
+### Orbital decay of hot Jupiters
+
+
+### List of publications
 
 
 
