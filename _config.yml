@@ -31,7 +31,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/ID_photo_submission.jpg"
+#title-img: "/assets/img/ID_photo_submission.jpg"
 
 
 # --- Footer social media links --- #
@@ -80,16 +80,16 @@ title-img: "/assets/img/ID_photo_submission.jpg"
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 80
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+#feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: true
