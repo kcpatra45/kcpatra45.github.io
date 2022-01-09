@@ -14,7 +14,7 @@ author: Kishore Patra
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #About Me: "aboutme"
+  About Me: "aboutme"
   Research: "research"
   CV: "cv"
   Outreach: "outreach"
