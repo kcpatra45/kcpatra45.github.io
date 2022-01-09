@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: home 
 ---
 
 <img src="/assets/img/ID_photo_submission.jpg" class="center" width="225" height="300">  
