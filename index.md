@@ -12,7 +12,7 @@ I graduated with a B.Sc. in Physics from the Massachusetts Institute of Technolo
 I grew up in a little village on the eastern coast of India. 
 In my free time, I play cricket and tennis, take photo-walks, and write stories.
 
-## Contact
+# Contact
 kcpatra@berkeley.edu
 
 
