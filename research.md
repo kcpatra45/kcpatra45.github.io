@@ -12,8 +12,7 @@ Extragalatic supernovae (SNe) are spatially unresolvable, even with the best of 
 
 <img src="/assets/img/specpol_img_website.JPG" class="center">  
 
-
-#In SN atmospheres, photons are scattered by free electrons (Thomson scattering). If the projected photosphere is circularly symmetric,
+<!---In SN atmospheres, photons are scattered by free electrons (Thomson scattering). If the projected photosphere is circularly symmetric,
 #a complete cancellation of the electric vectors results in zero net polarization. However, if the projected photosphere deviates from circular
 #symmetry, incomplete cancellation of the electric vectors would lead to
 #nonzero polarization across the spectrum. Additionally, any clumps
@@ -21,7 +20,7 @@ Extragalatic supernovae (SNe) are spatially unresolvable, even with the best of 
 #along the observer’s line of sight may block parts of the underlying
 #photosphere. Therefore, an incomplete cancellation of the electric vectors
 #will occur across the corresponding spectral lines, further producing
-#nonzero polarization at those line wavelengths. 
+#nonzero polarization at those line wavelengths.--> 
 
 Here's how the data look
 here's what we currently know
