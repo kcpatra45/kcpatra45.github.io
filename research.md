@@ -10,6 +10,9 @@ I am broadly interested in observational astronomy. I have authored papers on su
 ### Spectropolarimetry (specpol)
 Extragalatic supernovae (SNe) are spatially unresolvable, even with the best of ground-based interferometers. For example, the most powerful ground-based interferometer, the Event Horizon Telescope, can currently achieve a resolution of ∼ 60 𝜇as. For comparison, the minimum resolution required to study the geometry of a nearby SN, for instance 3 Mpc away would be ∼ 10 𝜇as. Fortunately, specpol, which measures polarization as a function of wavelength, provides a unique approach to the study of the SN explosion geometry and its structure. 
 
+<img src="/assets/img/specpol_img_website.JPG" class="center">  
+
+
 #In SN atmospheres, photons are scattered by free electrons (Thomson scattering). If the projected photosphere is circularly symmetric,
 #a complete cancellation of the electric vectors results in zero net polarization. However, if the projected photosphere deviates from circular
 #symmetry, incomplete cancellation of the electric vectors would lead to
