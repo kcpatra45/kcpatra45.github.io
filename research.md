@@ -16,7 +16,7 @@ Shown above are some examples of SN geometries and the type of polarization sign
 
 My current goals are to constrain the progenitor system(s) and explosion mechanism(s) that lead to Type Ia supernovae. Specpol studies have demonstrated that these explosions show remarkable sphericity of the ejecta. Si II and Ca II absorption lines are often highly polarized (~ 1%) in these SNe, indicating high asymmetry in the spatial distribution of intermediate-mass elements synthesized in SNe Ia. We hope that by studying specpol of enough SNe Ia, we may be able to differentiate between the various theoretical models for these explosions. 
 
-<img src="/assets/img/pol_middle.JPG" class="center" width=100 height=100> 
+<img src="/assets/img/pol_middle.JPG" class="center" width=400 height=400> 
 The plot above shows the polarization signal of the high-velocity Type Ia SN 2019ein. 
 
 Relevant Publications:
