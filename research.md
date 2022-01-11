@@ -30,7 +30,7 @@ Relevant Publications:
 
 The orbits of many of the hot Jupiters are expected to be slowly shrinking owing to tidal interactions between the planet and its host star. A hot Jupiter completes one orbit around its host star in ~ 1 day, whereas the star spins on its axis on a timescale of a few tens of days. Consequently, the bulge lags slightly behind the orbiting planet tugging back on it, sapping angular momentum from the orbit and transferring it to the stellar spin. Below is an illustration of the lagging tidal bulge.
 
-The tidal bulge raised on the star by the planet has to travel around the star, encountering resistance from the stellar layers. The efficiency with which the tidal bulge dissipates orbital energy as heat is characterized by the tidal quality factor $`Q_{\star}`$.. 
+The tidal bulge raised on the star by the planet has to travel around the star, encountering resistance from the stellar layers. The efficiency with which the tidal bulge dissipates orbital energy as heat is characterized by the tidal quality factor Q<sub>*</sub>. 
 
 
 
