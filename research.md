@@ -16,7 +16,7 @@ Shown above are some examples of SN geometries and the type of polarization sign
 
 My current goals are to constrain the progenitor system(s) and explosion mechanism(s) that lead to Type Ia supernovae. Specpol studies have demonstrated that these explosions show remarkable sphericity of the ejecta. Si II and Ca II absorption lines are often highly polarized (~ 1%) in these SNe, indicating high asymmetry in the spatial distribution of intermediate-mass elements synthesized in SNe Ia. We hope that by studying specpol of enough SNe Ia, we may be able to differentiate between the various theoretical models for these explosions. 
 
-<img src="/assets/img/pol_middle.JPG" class="center" width=400 height=400> 
+<img src="/assets/img/pol_middle.JPG" class="center" width=700 height=700> 
 The plot above shows the polarization signal of the high-velocity Type Ia SN 2019ein. 
 
 Relevant Publications:
@@ -30,7 +30,7 @@ Relevant Publications:
 
 The orbits of many of the hot Jupiters are expected to be slowly shrinking owing to tidal interactions between the planet and its host star. A hot Jupiter completes one orbit around its host star in ~ 1 day, whereas the star spins on its axis on a timescale of a few tens of days. Consequently, the bulge lags slightly behind the orbiting planet tugging back on it, sapping angular momentum from the orbit and transferring it to the stellar spin. Below is an illustration of the lagging tidal bulge.
 
-The tidal bulge raised on the star by the planet has to travel around the star, encountering resistance from the stellar layers. The efficiency with which the tidal bulge dissipates orbital energy as heat is characterized by the tidal quality factor $Q_{\star}$. 
+The tidal bulge raised on the star by the planet has to travel around the star, encountering resistance from the stellar layers. The efficiency with which the tidal bulge dissipates orbital energy as heat is characterized by the tidal quality factor $`Q_{\star}`$.. 
 
 
 
