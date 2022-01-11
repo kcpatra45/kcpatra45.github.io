@@ -12,27 +12,27 @@ Extragalatic supernovae (SNe) are spatially unresolvable, even with the best of 
 
 <img src="/assets/img/specpol_img_website.JPG" class="center">  
 
-Shown above are some examples of SN geometries and the expected polarization signal from them. If the SN photosphere is spherically symmetric, electric vectors cancel out resulting in zero net polarization. On the other hand, if  the photosphere deviates from spherical symmetry, the cancellation is imperfect leading to a nonzero polarization in the spectral continuum. If newly synthesized material block parts of the photosphere (for e.g. Si, Ca), incomplete cancellation of electric vectors manifests as a polarization signal at the specific wavelengths absorbed by the material. 
+Shown above are some examples of SN geometries and the type of polarization signal expected from them. If the sky-projected SN photosphere is circularly symmetric, electric vectors cancel out resulting in zero net polarization. On the other hand, if  the photosphere deviates from circular symmetry, the cancellation is imperfect leading to a nonzero polarization in the spectral continuum. If newly synthesized material block parts of the photosphere (for e.g. Si, Ca), incomplete cancellation of electric vectors manifests as a polarization signal (line polarization) at the specific wavelengths absorbed by the material. 
 
-Specpol of studies of Type Ia supernovae have demonstrated that thermocnuclear explosions show remarkable sphericity of the ejecta. Si II and Ca II absorption lines are often highly polarized (~ 1%) in these SNe.
+My current goals are to constrain the progenitor system(s) and explosion mechanism(s) that lead to Type Ia supernovae. Specpol studies have demonstrated that these explosions show remarkable sphericity of the ejecta. Si II and Ca II absorption lines are often highly polarized (~ 1%) in these SNe, indicating high asymmetry in the spatial distribution of intermediate-mass elements synthesized in SNe Ia. We hope that by studying specpol of enough SNe Ia, we may be able to differentiate between the various theoretical models for these explosions. 
+
+<img src="/assets/img/pol_middle.JPG" class="center"> 
+The plot above shows the polarization signal of the high-velocity Type Ia SN 2019ein. 
+
+Relevant Publications:
 
 
 
-
-Here's how the data look
-here's what we currently know
-here's what we hope to find out
-other ambitious applications of specpol
 
 
 
 ### Orbital decay of hot Jupiters
 
+The orbits of many of the hot Jupiters are expected to be slowly shrinking owing to tidal interactions between the planet and its host star. A hot Jupiter completes one orbit around its host star in ~ 1 day, whereas the star spins on its axis on a timescale of a few tens of days. Consequently, the bulge lags slightly behind the orbiting planet tugging back on it, sapping angular momentum from the orbit and transferring it to the stellar spin. Below is an illustration of the lagging tidal bulge.
+
+The tidal bulge raised on the star by the planet has to travel around the star, encountering resistance from the stellar layers. The efficiency with which the tidal bulge dissipates orbital energy as heat is characterized by the tidal quality factor $Q_{\star}$. 
 
 
-
-
-### List of publications
 
 
 
