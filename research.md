@@ -14,12 +14,11 @@ Extragalatic supernovae (SNe) are spatially unresolvable, even with the best of 
 
 Shown above are some examples of SN geometries and the type of polarization signal expected from them. If the sky-projected SN photosphere is circularly symmetric, electric vectors cancel out resulting in zero net polarization. On the other hand, if  the photosphere deviates from circular symmetry, the cancellation is imperfect leading to a nonzero polarization in the spectral continuum. If newly synthesized material block parts of the photosphere (for e.g. Si, Ca), incomplete cancellation of electric vectors manifests as a polarization signal (line polarization) at the specific wavelengths absorbed by the material. 
 
-My current goals are to constrain the progenitor system(s) and explosion mechanism(s) that lead to Type Ia supernovae. Specpol studies have demonstrated that these explosions show remarkable sphericity of the ejecta. Si II and Ca II absorption lines are often highly polarized (~ 1%) in these SNe, indicating high asymmetry in the spatial distribution of intermediate-mass elements synthesized in SNe Ia. We hope that by studying specpol of enough SNe Ia, we may be able to differentiate between the various theoretical models for these explosions. 
+My current goals are to constrain the progenitor system(s) and explosion mechanism(s) that lead to Type Ia supernovae. Specpol studies have demonstrated that these explosions show remarkable sphericity of the ejecta. Si II and Ca II absorption lines are often highly polarized (~ 1%) in these SNe, indicating high asymmetry in the spatial distribution of intermediate-mass elements synthesized in SNe Ia. We hope that by studying specpol of enough SNe Ia, we may be able to differentiate between the various theoretical models for these explosions. The plot below shows the polarization signal of the high-velocity Type Ia SN 2019ein. 
 
 <img src="/assets/img/pol_middle.JPG" class="center" width=700 height=700> 
-The plot above shows the polarization signal of the high-velocity Type Ia SN 2019ein. 
 
-<br />
+
 **Relevant Publications**
 - [Spectropolarimetry of the Type Ia SN 2019ein rules out significant global asphericity of the ejecta](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4058P/abstract)
 
