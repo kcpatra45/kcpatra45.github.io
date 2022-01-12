@@ -19,6 +19,7 @@ My current goals are to constrain the progenitor system(s) and explosion mechani
 <img src="/assets/img/pol_middle.JPG" class="center" width=700 height=700> 
 The plot above shows the polarization signal of the high-velocity Type Ia SN 2019ein. 
 
+
 **Relevant Publications**
 - [Spectropolarimetry of the Type Ia SN 2019ein rules out significant global asphericity of the ejecta](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4058P/abstract)
 
@@ -40,9 +41,9 @@ My work as an undergrad at MIT led to the first direct detection of the decaying
 The goals are now to understand what factors affect the rate of tidal orbital decay. What is special about WASP-12b that it is undergoing orbital decay yet other similar hot Jupiters do not? 
 
 **Relevant Publications**
--[The Apparently Decaying Orbit of WASP-12b](https://ui.adsabs.harvard.edu/abs/2017AJ....154....4P/abstract)
--[The Orbit of WASP-12b Is Decaying](https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...5Y/abstract)
--[The Continuing Search for Evidence of Tidal Orbital Decay of Hot Jupiters](https://ui.adsabs.harvard.edu/abs/2020AJ....159..150P/abstract)
+- [The Apparently Decaying Orbit of WASP-12b](https://ui.adsabs.harvard.edu/abs/2017AJ....154....4P/abstract)
+- [The Orbit of WASP-12b Is Decaying](https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...5Y/abstract)
+- [The Continuing Search for Evidence of Tidal Orbital Decay of Hot Jupiters](https://ui.adsabs.harvard.edu/abs/2020AJ....159..150P/abstract)
 
 
 
