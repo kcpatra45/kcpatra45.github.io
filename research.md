@@ -4,7 +4,7 @@ title: Research
 
 ---
 
-I am broadly interested in observational astronomy. I have authored papers on supernova explosions, tidal orbital decay of exoplanets, supernova cosmology, stellar evolution and galaxy clusters. Currently, I work on measuring polarized light from transient events like supernova explosions and tidal disruption events. In the past, my work led to the first detection of a hot Jupiter spiraling in to the host star due to tidal orbital decay. Below are some more details about my current and past work. 
+I am broadly interested in observational astronomy. I have authored papers on supernova explosions, tidal orbital decay of exoplanets, supernova cosmology, stellar evolution and galaxy clusters. Currently, I work with [Alex Filippenko](https://astro.berkeley.edu/people/alex-filippenko/) on measuring polarized light from transient events like supernova explosions and tidal disruption events. In the past, my work led to the first detection of a hot Jupiter spiraling in to the host star due to tidal orbital decay. Below are some more details about my current and past work. 
 
 
 ### Spectropolarimetry (specpol)
@@ -28,9 +28,18 @@ Relevant Publications:
 
 ### Orbital decay of hot Jupiters
 
-The orbits of many of the hot Jupiters are expected to be slowly shrinking owing to tidal interactions between the planet and its host star. A hot Jupiter completes one orbit around its host star in ~ 1 day, whereas the star spins on its axis on a timescale of a few tens of days. Consequently, the bulge lags slightly behind the orbiting planet tugging back on it, sapping angular momentum from the orbit and transferring it to the stellar spin. Below is an illustration of the lagging tidal bulge.
+The orbits of many of the hot Jupiters are expected to be slowly shrinking owing to tidal interactions between the planet and its host star. A hot Jupiter completes one orbit around its host star in ~ 1 day, whereas the star spins on its axis on a timescale of a few tens of days. Consequently, the bulge lags slightly behind the orbiting planet tugging back on it, sapping angular momentum from the orbit and transferring it to the stellar spin. Below is an illustration of the lagging tidal bulge. Similar tidal effects are the reason why the moon is slowly inching away from the earth. In the earth-moon system, the direction of transfer of angular momentum is from the earth's spin to the moon's orbit, owing to the fact the moon's orbital frequency is much smaller than the earth's spin frequency. 
+<img src="/assets/img/tidal_inverted.jpg" class="center">
 
-The tidal bulge raised on the star by the planet has to travel around the star, encountering resistance from the stellar layers. The efficiency with which the tidal bulge dissipates orbital energy as heat is characterized by the tidal quality factor Q<sub>*</sub>. 
+The tidal bulge raised on the star by the planet has to travel around the star, encountering resistance from the stellar layers. The efficiency with which the tidal bulge dissipates orbital energy as heat is characterized by the tidal quality factor Q<sub>*</sub>. It has proven difficult to calculate the tidal quality factor from first principles, with predicted values spanning several orders of magnitude from 10<sup>5</sup>-10<sup>9</sup>. 
+
+My work as an undergrad at MIT led to the first direct detection of the decaying orbit of the hot Jupiter WASP-12b. By measuring mid-transit times of this planet and combining them with historical mid-transit times spanning over a decade, my team and I were able to show that this planet is slowly spiralling inward at a rate of ~30 ms/year. Initially, we were unsure whether the apparent decrease in orbital period was due to tidal effects or whether we had witnessed a portion of an apsidally precessing orbit.  A couple more years of monitoring has now unequivocally confirmed that WASP-12b is on a collision course with its host star and is expected to merge with its host star in ~ 3 Myr.  
+
+<img src="/assets/img/wasp12b_decay.jpg" class="center">
+
+The goals are now to understand what factors affect the rate of tidal orbital decay. What is special about WASP-12b that it is undergoing orbital decay yet other similar hot Jupiters do not? 
+
+
 
 
 
