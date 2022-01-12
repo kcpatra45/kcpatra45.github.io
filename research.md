@@ -7,7 +7,7 @@ title: Research
 I am broadly interested in observational astronomy. I have authored papers on supernova explosions, tidal orbital decay of exoplanets, supernova cosmology, stellar evolution and galaxy clusters. Currently, I work with [Alex Filippenko](https://astro.berkeley.edu/people/alex-filippenko/) on measuring polarized light from transient events like supernova explosions and tidal disruption events. In the past, my work led to the first detection of a hot Jupiter spiraling in to the host star due to tidal orbital decay. Below are some more details about my current and past work. 
 
 
-### Spectropolarimetry (specpol)
+## Spectropolarimetry (specpol)
 Extragalatic supernovae (SNe) are spatially unresolvable, even with the best of ground-based interferometers. For example, the most powerful ground-based interferometer, the Event Horizon Telescope, can currently achieve a resolution of ∼ 60 𝜇as. For comparison, the minimum resolution required to study the geometry of a nearby SN, for instance 3 Mpc away would be ∼ 10 𝜇as. Fortunately, specpol, which measures polarization as a function of wavelength, provides a unique approach to the study of the SN explosion geometry and its structure. 
 
 <img src="/assets/img/specpol_img_website.JPG" class="center">  
@@ -19,14 +19,14 @@ My current goals are to constrain the progenitor system(s) and explosion mechani
 <img src="/assets/img/pol_middle.JPG" class="center" width=700 height=700> 
 The plot above shows the polarization signal of the high-velocity Type Ia SN 2019ein. 
 
-Relevant Publications:
+**Relevant Publications**
+- [Spectropolarimetry of the Type Ia SN 2019ein rules out significant global asphericity of the ejecta](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4058P/abstract)
 
 
 
 
 
-
-### Orbital decay of hot Jupiters
+## Orbital decay of hot Jupiters
 
 The orbits of many of the hot Jupiters are expected to be slowly shrinking owing to tidal interactions between the planet and its host star. A hot Jupiter completes one orbit around its host star in ~ 1 day, whereas the star spins on its axis on a timescale of a few tens of days. Consequently, the bulge lags slightly behind the orbiting planet tugging back on it, sapping angular momentum from the orbit and transferring it to the stellar spin. Below is an illustration of the lagging tidal bulge. Similar tidal effects are the reason why the moon is slowly inching away from the earth. In the earth-moon system, the direction of transfer of angular momentum is from the earth's spin to the moon's orbit, owing to the fact the moon's orbital frequency is much smaller than the earth's spin frequency. 
 <img src="/assets/img/tidal_inverted.jpg" class="center">
@@ -39,8 +39,10 @@ My work as an undergrad at MIT led to the first direct detection of the decaying
 
 The goals are now to understand what factors affect the rate of tidal orbital decay. What is special about WASP-12b that it is undergoing orbital decay yet other similar hot Jupiters do not? 
 
-
-
+**Relevant Publications**
+-[The Apparently Decaying Orbit of WASP-12b](https://ui.adsabs.harvard.edu/abs/2017AJ....154....4P/abstract)
+-[The Orbit of WASP-12b Is Decaying](https://ui.adsabs.harvard.edu/abs/2020ApJ...888L...5Y/abstract)
+-[The Continuing Search for Evidence of Tidal Orbital Decay of Hot Jupiters](https://ui.adsabs.harvard.edu/abs/2020AJ....159..150P/abstract)
 
 
 
