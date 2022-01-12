@@ -19,7 +19,7 @@ My current goals are to constrain the progenitor system(s) and explosion mechani
 <img src="/assets/img/pol_middle.JPG" class="center" width=700 height=700> 
 The plot above shows the polarization signal of the high-velocity Type Ia SN 2019ein. 
 
-
+<br />
 **Relevant Publications**
 - [Spectropolarimetry of the Type Ia SN 2019ein rules out significant global asphericity of the ejecta](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4058P/abstract)
 
