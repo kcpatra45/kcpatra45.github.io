@@ -37,7 +37,7 @@ My work as an undergrad at MIT led to the first direct detection of the decaying
 
 <img src="/assets/img/wasp12b_decay.jpg" class="center">
 
-The goals are now to understand what factors affect the rate of tidal orbital decay. What is special about WASP-12b that it is undergoing orbital decay yet other similar hot Jupiters do not? 
+The goal is now to understand what factors affect the rate of tidal orbital decay. What is so special about WASP-12b that it is undergoing orbital decay but other similar hot Jupiters are not? 
 
 **Relevant Publications**
 - [The Apparently Decaying Orbit of WASP-12b](https://ui.adsabs.harvard.edu/abs/2017AJ....154....4P/abstract)
