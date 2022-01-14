@@ -36,7 +36,8 @@ Updated: August 2020
 - High-School Physics and Mathematics Instructor, Oaktree International School, Kolkata, India, October 2013 - April 2014
 
 ## Publications
-### >36 ATels/TNS Reports/GCN Circulars; 7 total refereed (2 first-author); 115 total citations (79 first-author)
+#### >36 ATels/TNS Reports/GCN Circulars
+#### 7 total refereed (2 first-author); 115 total citations (79 first-author)
 
 - Patra, Kishore C.; Winn, Joshua N.; Holman, Matthew J.; Gillon, Michael; Burdanov, Artem; et al., *The Continuing Search for Evidence of Tidal Orbital Decay of Hot Jupiters*, AJ, 159, 150 (2020)
 - Patra, Kishore C.; Winn, Joshua N.; Holman, Matthew J.; Yu, Liang; Deming, Drake; Dai, Fei, *The Apparently Decaying Orbit of WASP-12b*, AJ, 154, 4 (2017)
