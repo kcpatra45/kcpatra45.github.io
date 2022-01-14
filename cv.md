@@ -4,6 +4,7 @@ title: Curriculum Vitae
 
 ---
 
+Updated: August 2020
 
 ## Education
 
@@ -18,7 +19,7 @@ title: Curriculum Vitae
 
 ## Awards
 
-- Sunil Nagaraj, Landon Noll, The Otellini Family Graduate Fellowship, 2021-
+- Sunil Nagaraj, Landon Noll, & The Otellini Family Graduate Fellowship, 2021-
 - Outstanding Graduate Student Instructor, Astronomy UC Berkeley, 2020
 - Carl & Betty Helmholz Fellowship, International-House UC Berkeley, 2018
 - Alan H. Barrett Prize in Astrophysics, MIT, 2018
@@ -35,9 +36,12 @@ title: Curriculum Vitae
 - High-School Physics and Mathematics Instructor, Oaktree International School, Kolkata, India, October 2013 - April 2014
 
 ## Publications
+### >36 ATels/TNS Reports/GCN Circulars; 7 total refereed (2 first-author); 115 total citations (79 first-author)
 
 - Patra, Kishore C.; Winn, Joshua N.; Holman, Matthew J.; Gillon, Michael; Burdanov, Artem; et al., *The Continuing Search for Evidence of Tidal Orbital Decay of Hot Jupiters*, AJ, 159, 150 (2020)
 - Patra, Kishore C.; Winn, Joshua N.; Holman, Matthew J.; Yu, Liang; Deming, Drake; Dai, Fei, *The Apparently Decaying Orbit of WASP-12b*, AJ, 154, 4 (2017)
+
+
 - Zhang, Keto D.; Murakami, Yukei S.; Stahl, Benjamin E.; Patra, Kishore C.; et al., *Improving bayesian posterior correlation analysis on type Ia supernova luminosity evolution*, MNRAS Letters, 503, 33 (2021)
 - Murakami, Yukei S.; Stahl, Benjamin E.; Zhang, Keto D.; Chu, Matthew R.; McGinness, Emma C.; Patra, Kishore C.; Filippenko, Alexei V., *On the relationship between Type Ia supernova luminosity and host-galaxy properties*, MNRAS Letters, 504, 34 (2021)
 - De Propris, Roberto; West, Michael J.; Andrade-Santos, Felipe; ... Patra, Kishore C., *Brightest cluster galaxies: the centre can(not?) hold*, MNRAS, 500, 310 (2021)
