@@ -10,7 +10,7 @@ I am broadly interested in observational astronomy with current focus on superno
 Before coming to Berkeley, I graduated with a B.Sc. in Physics from the Massachusetts Institute of Technology in 2018. 
 I grew up in a little village on the eastern coast of India. In my free time, I play cricket and tennis, explore maps and write stories. 
 
-# Contact
+## Contact
 kcpatra@berkeley.edu
 
 Below you can read some of my random musings and occasional writings. 
