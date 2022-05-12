@@ -18,7 +18,7 @@ navbar-links:
   Research: "research"
   Data: "data"
   CV: "cv"
-  Outreach: "outreach"
+  #Outreach: "outreach"
   Teaching: "teaching"
   Pestalozzi: "pestalozzi"
   #Author's home: "https://deanattali.com"
