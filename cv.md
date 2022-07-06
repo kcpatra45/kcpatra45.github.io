@@ -31,20 +31,25 @@ Updated: August 2020
 
 - Head Graduate Student Instructor, *Introduction to General Astronomy*, UC Berkeley, Fall 2019
 - Graduate Student Instructor, *Introduction to General Astronomy*, UC Berkeley, Fall 2018
-- Developed Sophomore-Level Experimental Physics Course, MIT, Fall 2017
+- Developed Sophomore-Level Experimental Physics Course 8.S12, MIT, Fall 2017
 - Lecturer, MIT High-School Summer Program, MIT, August 2017
 - High-School Physics and Mathematics Instructor, Oaktree International School, Kolkata, India, October 2013 - April 2014
 
 ## Publications
-#### >36 ATels/TNS Reports/GCN Circulars
-#### 7 total refereed (2 first-author); 115 total citations (79 first-author)
+#### >45 ATels/TNS Reports/GCN Circulars
+#### 13 total refereed (4 first-author); 236 total citations (138 first-author)
 
-- Patra, Kishore C.; Winn, Joshua N.; Holman, Matthew J.; Gillon, Michael; Burdanov, Artem; et al., *The Continuing Search for Evidence of Tidal Orbital Decay of Hot Jupiters*, AJ, 159, 150 (2020)
-- Patra, Kishore C.; Winn, Joshua N.; Holman, Matthew J.; Yu, Liang; Deming, Drake; Dai, Fei, *The Apparently Decaying Orbit of WASP-12b*, AJ, 154, 4 (2017)
+4. Patra, Kishore C.; Lu, Wenbin; Brink, Thomas G.; et al., *Spectropolarimetry of the tidal disruption event AT 2019qiz: a quasispherical reprocessing layer*, MNRAS, 612, 1696 (2022)
+3. Patra, Kishore C.; Yang, Yi; Brink, Thomas G.; et al., *Spectropolarimetry of the Type Ia SN 2019ein rules out significant global asphericity of the ejecta*, MNRAS, 509, 4058 (2022)
+2. Patra, Kishore C.; Winn, Joshua N.; Holman, Matthew J.; et al., *The Continuing Search for Evidence of Tidal Orbital Decay of Hot Jupiters*, AJ, 159, 150 (2020)
+1. Patra, Kishore C.; Winn, Joshua N.; Holman, Matthew J.; et al., *The Apparently Decaying Orbit of WASP-12b*, AJ, 154, 4 (2017)
 
-
-- Zhang, Keto D.; Murakami, Yukei S.; Stahl, Benjamin E.; Patra, Kishore C.; et al., *Improving bayesian posterior correlation analysis on type Ia supernova luminosity evolution*, MNRAS Letters, 503, 33 (2021)
-- Murakami, Yukei S.; Stahl, Benjamin E.; Zhang, Keto D.; Chu, Matthew R.; McGinness, Emma C.; Patra, Kishore C.; Filippenko, Alexei V., *On the relationship between Type Ia supernova luminosity and host-galaxy properties*, MNRAS Letters, 504, 34 (2021)
-- De Propris, Roberto; West, Michael J.; Andrade-Santos, Felipe; ... Patra, Kishore C., *Brightest cluster galaxies: the centre can(not?) hold*, MNRAS, 500, 310 (2021)
-- Yee, Samuel W.; Winn, Joshua N.; Knutson, Heather A.; Patra, Kishore C.; Vissapragada, Shreyas; et al., *The Orbit of WASP-12b Is Decaying*, ApJ Letters, 888, 5 (2020)
-- Kosiarek, M., Nisley, I., Patra, K.C., et al., *Rotation Period of Asteroid 3494 Purple Mountain*, The Minor Planet Bulletin, 44, 171 (2017)
+9. Cai, Y. -Z.; Pastorello, A.; Fraser, M.; et al., *Observations of the luminous red nova AT 2021biy in the nearby galaxy NGC 4631*, 2022arXiv220700734C, (2022)
+8. Vasylyev, Sergiy S.; Filippenko, Alexei V.; Vogl, Christian; et al., *Early-Time Ultraviolet Spectroscopy and Optical Follow-up Observations of the Type IIP Supernova 2021yja*, 2022arXiv220308001V, (2022)
+7. Sollerman, J.; Yang, S.; Schulze, S.; et al., *The Type II supernova SN 2020jfo in M 61, implications for progenitor system, and explosion dynamics*, A&A, 655, 105 (2021)
+6. Kilpatrick, Charles D.; Coulter, David A.; Arcavi, Iair; et al., *The Gravity Collective: A Search for the Electromagnetic Counterpart to the Neutron Star-Black Hole Merger GW190814*, ApJ, 923, 258 (2021)
+5. Zhang, Keto D.; Murakami, Yukei S.; Stahl, Benjamin E.; et al., *Improving bayesian posterior correlation analysis on type Ia supernova luminosity evolution*, MNRAS Letters, 503, 33 (2021)
+4. Murakami, Yukei S.; Stahl, Benjamin E.; Zhang, Keto D.; et al., *On the relationship between Type Ia supernova luminosity and host-galaxy properties*, MNRAS Letters, 504, 34 (2021)
+3. De Propris, Roberto; West, Michael J.; Andrade-Santos, Felipe; et al., *Brightest cluster galaxies: the centre can(not?) hold*, MNRAS, 500, 310 (2021)
+2. Yee, Samuel W.; Winn, Joshua N.; Knutson, Heather A.; et al., *The Orbit of WASP-12b Is Decaying*, ApJ Letters, 888, 5 (2020)
+1. Kosiarek, M., Nisley, I., Patra, K.C., et al., *Rotation Period of Asteroid 3494 Purple Mountain*, The Minor Planet Bulletin, 44, 171 (2017)
