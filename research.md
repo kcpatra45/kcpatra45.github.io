@@ -8,6 +8,9 @@ I am broadly interested in observational astronomy. I have authored papers on su
 
 
 ## Spectropolarimetry (specpol)
+
+### Supernova explosions 
+
 Extragalatic supernovae (SNe) are spatially unresolvable, even with the best of ground-based interferometers. For example, the most powerful ground-based interferometer, the Event Horizon Telescope, can currently achieve a resolution of ∼ 60 𝜇as. For comparison, the minimum resolution required to study the geometry of a nearby SN, for instance 3 Mpc away would be ∼ 10 𝜇as. Fortunately, specpol, which measures polarization as a function of wavelength, provides a unique approach to the study of the SN explosion geometry and its structure. 
 
 <img src="/assets/img/specpol_img_website.JPG" class="center">  
@@ -19,8 +22,15 @@ My current goals are to constrain the progenitor system(s) and explosion mechani
 <img src="/assets/img/pol_middle.JPG" class="center" width=700 height=700> 
 
 
+### Tidal disruption events (TDEs)
+
+Occasionally a star gets too close to a supermassive black hole (SMBH), at which point tidal forces on the star exceed its self gravity, tearing apart the ill-fated interloper. Roughly half of the stellar debris is bound in a range of highly-eccentric orbits around the SMBH, whereas the rest goes unbound. The bound material is expected to fall toward the SMBH, forming an accretion disk. All TDEs were originally expected to be extreme-ultraviolet (UV) and X-ray emitters. However, many of them were found to show bright near-UV/optical emission with a luminosity much higher than that in the X-ray band, igniting a long-standing controversy on the origin of the bright optical emission and on the apparent absence of X-rays in these TDEs. Two classes of solutions have been proposed: (i) the accretion disk does produce ample X-ray emission, but it gets reprocessed by an optically thick gas layer located at a distance much larger than the tidal radius and (ii) instead of accretion, TDEs are powered by shocks resulting from collision of streams in the outer regions of a highly-eccentric disk. One way to distinguish between these two models is to study the geometry of the gas around the black hole. 
+
+I led a spectropolarimetric study of the TDE known as AT 2019qiz, which provided the first direct constraint on a the distribution of gas around a black hole after stellar disruption. We found that polarization was consistent with 0 percent at maximum brightness and only modestly higher (1 percent) a month later. These observations lead us to conclude that the gas around a SMBH is not in highly eccentric disks. Instead, we find that a roughly spherical wind outflow from the TDE enshrouds any accretion disk inside, favoring the solution (i) introduced above.  
+
 **Relevant Publications**
 - [Spectropolarimetry of the Type Ia SN 2019ein rules out significant global asphericity of the ejecta](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4058P/abstract)
+- [Spectropolarimetry of the tidal disruption event AT 2019qiz: a quasispherical reprocessing layer](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1696P/abstract)
 
 
 
@@ -37,7 +47,7 @@ My work as an undergrad at MIT led to the first direct detection of the decaying
 
 <img src="/assets/img/wasp12b_decay.jpg" class="center">
 
-The goal is now to understand what factors affect the rate of tidal orbital decay. What is so special about WASP-12b that it is undergoing orbital decay but other similar hot Jupiters are not? 
+The goal now is to understand what factors affect the rate of tidal orbital decay. What is so special about WASP-12b that it is undergoing orbital decay but other similar hot Jupiters are not? 
 
 **Relevant Publications**
 - [The Apparently Decaying Orbit of WASP-12b](https://ui.adsabs.harvard.edu/abs/2017AJ....154....4P/abstract)
