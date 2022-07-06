@@ -4,7 +4,7 @@ title: Curriculum Vitae
 
 ---
 
-Updated: August 2020
+Updated: June 2022
 
 ## Education
 
