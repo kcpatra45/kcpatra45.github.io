@@ -4,7 +4,7 @@ title: Research
 
 ---
 
-I am broadly interested in observational astronomy. I have authored papers on supernova explosions, tidal orbital decay of exoplanets, supernova cosmology, stellar evolution and galaxy clusters. Currently, I work with [Alex Filippenko](https://astro.berkeley.edu/people/alex-filippenko/) on measuring polarized light from transient events like supernova explosions and tidal disruption events. In the past, my work led to the first detection of a hot Jupiter spiraling in to the host star due to tidal orbital decay. Below are some more details about my current and past work. 
+I am broadly interested in observational astronomy. I have authored papers on supernova explosions, tidal orbital decay of exoplanets, supernova cosmology, stellar evolution and galaxy clusters. Currently, I work with [Alex Filippenko](https://astro.berkeley.edu/people/alex-filippenko/) on measuring polarized light from transient events like supernova explosions and tidal disruption events. In the past, my work led to the first detection of a hot Jupiter spiraling in to the host star owing to tidal orbital decay. Below are some more details about my current and past work. 
 
 
 ## Spectropolarimetry (specpol)
