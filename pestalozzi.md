@@ -20,7 +20,7 @@ philosophy. Pestalozzi's timely mentorship helped me chart a path to pursuing sc
 later I found myself in Cambridge, Massachusetts conducting cutting-edge research on exoplanets. 
 
 Pestalozzi changed my life and it continues to do so for many young people around the world. If you would like to know more about Pestalozzi and/or wish to 
-contribute to their mission, feel free to reach out to me or visit their website at https://pestalozzi.org.uk/. 
+contribute to their mission, feel free to reach out to me or visit their website at [The Pestalozzi International Foundation](https://pestalozzi.org.uk/). 
 
 I'll end this page with a few pictures from my time at Pestalozzi. 
 (It's been a long time since these pictures were taken and I have mostly forgotten who took them. So I apologize for the missing credits. If you see this page
