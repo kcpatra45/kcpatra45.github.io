@@ -10,14 +10,11 @@ International Baccalaureate (IB) Diploma in a sleepy little village called Sedle
 that offers scholarships to "exceptional 16-19-year olds who are academically bright, but have limited educational prospects in their home countries."  
 
 Before being chosen for the Pestalozzi program, I had no clear direction for continuing my further education. I was doing well in school and was interested in 
-pursuing science but I neither know how to do it nor how to pay for my education ahead. So when Pestalozzi offered me the chance to come to the UK for two years 
+pursuing science but I neither knew how to do it nor how to pay for my education ahead. So when Pestalozzi offered me the chance to come to the UK for two years 
 to study the IB Diploma, I took a blind-faith leap and went for it, without even completely understanding what the program entailed. All I knew was that I had a chance
 of continuing my education. 
 
-The time I spent at Pestalozzi were hands down the best two years of my life! I received an excellent education, and living among a multinational and multicultural group of 
-people helped me develop a global perspective on many matters. The Pestalozzi mission of educating the "Head, Heart and Hands" influenced my own learning and teaching 
-philosophy. Pestalozzi's timely mentorship helped me chart a path to pursuing science. Before coming to Pestalozzi, I had not even heard of MIT, and yet, three years
-later I found myself in Cambridge, Massachusetts conducting cutting-edge research on exoplanets. 
+The time I spent at Pestalozzi were hands down the best two years of my life! I received an excellent education, and living among a multinational and multicultural group of people helped me develop a global perspective on many matters. The Pestalozzi mission of educating the "Head, Heart and Hands" influenced my own learning and teaching philosophy. Pestalozzi's timely mentorship helped me chart a path to pursuing science. Before coming to Pestalozzi, I had not even heard of MIT, and yet, three years later I found myself in Cambridge, Massachusetts conducting cutting-edge research on exoplanets. 
 
 Pestalozzi changed my life and it continues to do so for many young people around the world. If you would like to know more about Pestalozzi and/or wish to 
 contribute to their mission, feel free to reach out to me or visit their website at [The Pestalozzi International Foundation](https://pestalozzi.org.uk/). 
