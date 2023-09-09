@@ -14,4 +14,4 @@ I grew up in a little village on the eastern coast of India before moving to the
 ## Contact
 kcpatra@berkeley.edu
 
-Below you can read some of my random musings and occasional writings. 
+You can read some of my random musings and occasional writings below. 
