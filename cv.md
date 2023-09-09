@@ -4,6 +4,8 @@ title: Curriculum Vitae
 
 ---
 
+My complete CV can be found [here.]([https://link-url-here.org](https://github.com/kcpatra45/kcpatra45.github.io/blob/master/docs/CV_KP.pdf))
+
 Updated: June 2022
 
 ## Education
@@ -35,6 +37,8 @@ Updated: June 2022
 - Lecturer, MIT High-School Summer Program, MIT, August 2017
 - High-School Physics and Mathematics Instructor, Oaktree International School, Kolkata, India, October 2013 - April 2014
 
+<!---
+
 ## Publications
 #### >45 ATels/TNS Reports/GCN Circulars
 #### 13 total refereed (4 first-author); 236 total citations (138 first-author)
@@ -52,3 +56,5 @@ Updated: June 2022
 11. De Propris, Roberto; West, Michael J.; Andrade-Santos, Felipe; et al., *Brightest cluster galaxies: the centre can(not?) hold*, MNRAS, 500, 310 (2021)
 12. Yee, Samuel W.; Winn, Joshua N.; Knutson, Heather A.; et al., *The Orbit of WASP-12b Is Decaying*, ApJ Letters, 888, 5 (2020)
 13. Kosiarek, M., Nisley, I., Patra, K.C., et al., *Rotation Period of Asteroid 3494 Purple Mountain*, The Minor Planet Bulletin, 44, 171 (2017)
+
+-->
