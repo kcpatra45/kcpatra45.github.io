@@ -6,6 +6,8 @@ title: Curriculum Vitae
 
 My complete CV can be found [here](https://kcpatra45.github.io/docs/CV_KP.pdf)
 
+<a href="[username.github.io/folder/document.pdf](https://github.com/kcpatra45/kcpatra45.github.io/blob/master/docs/CV_KP.pdf)" target="_blank">PDF.</a>
+
 Updated: June 2022
 
 ## Education
