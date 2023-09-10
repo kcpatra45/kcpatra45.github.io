@@ -6,7 +6,8 @@ title: Curriculum Vitae
 
 My complete CV can be found <a href="https://kcpatra45.github.io/CV_KP.pdf" target="_blank">here.</a>
 
-Updated: June 2022
+[NASA/ADS publications list](https://ui.adsabs.harvard.edu/user/libraries/P56vdUZHQ4WGvv20V_oR_Q)
+
 
 ## Education
 
@@ -18,6 +19,8 @@ Updated: June 2022
 
 - Graduate Student Researcher, UC Berkeley, Advisor: Alex Filippenko, 2018-
 - Undergraduate Student Researcher, MIT, Advisors: Josh Winn & Nevin Weinberg, 2015-2018 
+
+<!---
 
 ## Awards
 
@@ -37,7 +40,6 @@ Updated: June 2022
 - Lecturer, MIT High-School Summer Program, MIT, August 2017
 - High-School Physics and Mathematics Instructor, Oaktree International School, Kolkata, India, October 2013 - April 2014
 
-<!---
 
 ## Publications
 #### >45 ATels/TNS Reports/GCN Circulars
