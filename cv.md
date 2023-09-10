@@ -4,9 +4,7 @@ title: Curriculum Vitae
 
 ---
 
-My complete CV can be found [here](https://kcpatra45.github.io/CV_KP.pdf)
-
-<a href="https://github.com/kcpatra45/kcpatra45.github.io/blob/master/docs/CV_KP.pdf" target="_blank">PDF.</a>
+My complete CV can be found <a href="https://kcpatra45.github.io/CV_KP.pdf" target="_blank">here.</a>
 
 Updated: June 2022
 
