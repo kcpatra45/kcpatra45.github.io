@@ -4,8 +4,15 @@ title: Research
 
 ---
 
-I am broadly interested in observational astronomy. I have authored papers on supernova explosions, tidal orbital decay of exoplanets, supernova cosmology, stellar evolution and galaxy clusters. Currently, I work with [Alex Filippenko](https://astro.berkeley.edu/people/alex-filippenko/) on measuring polarized light from transient events like supernova explosions and tidal disruption events. In the past, my work led to the first detection of a hot Jupiter spiraling in to the host star because of tidal orbital decay. Below are some more details about my current and past work. 
+My current research focuses on understanding the physics of various astrophysical transients including supernovae, tidal disruption events, fast radio bursts, and quasi-periodic eruptions with a combination of observations and theory. I have expertise in polarimetry (both spectral and imaging), photometry, and spectroscopy. I also work on detecting orbital decay of hot Jupiters, and constraining axion-photon
+coupling with polarimetry of highly magnetized white dwarfs. Below are some more details about my current and past work. 
 
+
+## X-ray quasi-periodic eruptions
+Quasi-periodic eruptions (QPEs) are a newly discovered phenomena displaying repeating soft X-ray bursts every few hours up
+to a day. The origins of QPEs are poorly understood, although most theoretical explanations invoke an accretion disk around a
+supermassive black hole (SMBH). The gas and stellar environments in the galactic nuclei of these sources are also poorly constrained. 
+By analyzing Hubble Space Telescope (HST) images of the first-ever discovered QPE source GSN 069, I found strong evidence for a compact nuclear [O III] emission region of size ≲ 35 pc. I deduced that the age of the accretion system was between 10 and 100 years, and inferred that the dense gas in the nuclear regions of GSN 069 originates from molecular clouds which are freshly ionized by the soft X-ray photons from the accretion disk. These findings provide evidence that a compact accretion disk (as opposed to a large AGN-like disk) is responsible for the origins of QPEs. Such small disks could result from stellar interactions with the SMBH (e.g. tidal disruption events). 
 
 ## Spectropolarimetry (specpol)
 
@@ -17,7 +24,7 @@ Extragalatic supernovae (SNe) are spatially unresolvable, even with the best of 
 
 Shown above are some examples of SN geometries and the type of polarization signal expected from them. If the sky-projected SN photosphere is circularly symmetric, electric vectors cancel out resulting in zero net polarization. On the other hand, if  the photosphere deviates from circular symmetry, the cancellation is imperfect leading to a nonzero polarization in the spectral continuum. If newly synthesized material block parts of the photosphere (for e.g. Si, Ca), incomplete cancellation of electric vectors manifests as a polarization signal (line polarization) at the specific wavelengths absorbed by the material. 
 
-My current goals are to constrain the progenitor system(s) and explosion mechanism(s) that lead to Type Ia supernovae. Specpol studies have demonstrated that these explosions show remarkable sphericity of the ejecta. Si II and Ca II absorption lines are often highly polarized (~ 1%) in these SNe, indicating high asymmetry in the spatial distribution of intermediate-mass elements synthesized in SNe Ia. We hope that by studying specpol of enough SNe Ia, we may be able to differentiate between the various theoretical models for these explosions. The plot below shows the polarization signal of the high-velocity Type Ia SN 2019ein. 
+My current goals are to constrain the progenitor system(s) and explosion mechanism(s) that lead to Type Ia supernovae. Specpol studies have demonstrated that these explosions have remarkably spherical ejecta. Si II and Ca II absorption lines are often highly polarized (~ 1%) in these SNe, indicating high asymmetry in the spatial distribution of intermediate-mass elements synthesized in SNe Ia. We hope that by studying specpol of enough SNe Ia, we may be able to differentiate between the various theoretical models for these explosions. The figure shown below displays the polarization signal of the high-velocity Type Ia SN 2019ein. 
 
 <img src="/assets/img/pol_middle.JPG" class="center" width=700 height=700> 
 
