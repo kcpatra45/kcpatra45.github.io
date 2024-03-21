@@ -14,6 +14,9 @@ to a day. The origins of QPEs are poorly understood, although most theoretical e
 supermassive black hole (SMBH). The gas and stellar environments in the galactic nuclei of these sources are also poorly constrained. 
 By analyzing Hubble Space Telescope (HST) images of the first-ever discovered QPE source GSN 069, I found strong evidence for a compact nuclear [O III] emission region of size ≲ 35 pc. We deduced that the age of the accretion system was between 10 and 100 years, and inferred that the dense gas in the nuclear regions of GSN 069 originates from molecular clouds which are freshly ionized by the soft X-ray photons from the accretion disk. These findings provide evidence that a compact accretion disk (as opposed to a large AGN-like disk) is responsible for the origin of QPEs. Such small disks could result from stellar interactions with the SMBH (e.g. tidal disruption events). 
 
+**Relevant Publications**
+- [Constraints on the narrow-line region of the X-ray quasi-periodic eruption source GSN 069](https://ui.adsabs.harvard.edu/abs/2023arXiv231005574P/abstract)
+
 ## Spectropolarimetry (specpol)
 
 ### Supernova explosions 
@@ -38,6 +41,7 @@ I led a spectropolarimetric study of the TDE known as AT 2019qiz, which provided
 **Relevant Publications**
 - [Spectropolarimetry of the Type Ia SN 2019ein rules out significant global asphericity of the ejecta](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4058P/abstract)
 - [Spectropolarimetry of the tidal disruption event AT 2019qiz: a quasispherical reprocessing layer](https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.1696P/abstract)
+- [Early Time Spectropolarimetry of the Aspherical Type II Supernova SN 2023ixf](https://ui.adsabs.harvard.edu/abs/2023ApJ...955L..37V/abstract)
 
 
 
