@@ -6,21 +6,20 @@ title: Curriculum Vitae
 
 My complete CV can be found <a href="https://kcpatra45.github.io/CV_KP_Oct_2025.pdf" target="_blank">here.</a>
 
-[NASA/ADS publications list](https://ui.adsabs.harvard.edu/user/libraries/P56vdUZHQ4WGvv20V_oR_Q)
+[NASA/ADS publications list]([https://ui.adsabs.harvard.edu/user/libraries/P56vdUZHQ4WGvv20V_oR_Q](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22%20AND%20database%3A%22astronomy%22)&q=Patra%2C%20Kishore&sort=date%20desc%2C%20bibcode%20desc&p_=0))
 
+<!---
 
 ## Education
 
-- PhD Astronomy, University of California at Berkeley, CA,  Expected 2024
-- MA Astronomy, University of California at Berkeley, CA,  2020
+- PhD Astronomy, University of California at Berkeley, CA, 2024
+- MA Astronomy, University of California at Berkeley, CA, 2020
 - BS Physics, Massachusetts Institute of Technology, Cambridge MA, 2018
 
 ## Research 
 
 - Graduate Student Researcher, UC Berkeley, Advisor: Alex Filippenko, 2018-
 - Undergraduate Student Researcher, MIT, Advisors: Josh Winn & Nevin Weinberg, 2015-2018 
-
-<!---
 
 ## Awards
 
