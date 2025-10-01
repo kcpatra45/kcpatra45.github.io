@@ -4,7 +4,7 @@ title: Curriculum Vitae
 
 ---
 
-My complete CV can be found <a href="https://kcpatra45.github.io/CV_KP.pdf" target="_blank">here.</a>
+My complete CV can be found <a href="https://kcpatra45.github.io/CV_KP_Oct_2025.pdf" target="_blank">here.</a>
 
 [NASA/ADS publications list](https://ui.adsabs.harvard.edu/user/libraries/P56vdUZHQ4WGvv20V_oR_Q)
 
