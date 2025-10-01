@@ -4,8 +4,16 @@ title: Research
 
 ---
 
-My current research focuses on understanding the physics of various astrophysical transients including supernovae, tidal disruption events, fast radio bursts, and quasi-periodic eruptions with a combination of observations and theory. I have expertise in polarimetry (both spectral and imaging), photometry, and spectroscopy. I also work on detecting orbital decay of hot Jupiters, and constraining axion-photon
-coupling with polarimetry of highly magnetized white dwarfs. Below are some more details about my current and past work. 
+<!--My current research focuses on understanding the physics of various astrophysical transients including supernovae, tidal disruption events, fast radio bursts, and quasi-periodic eruptions with a combination of observations and theory. I have expertise in polarimetry (both spectral and imaging), photometry, and spectroscopy. I also work on detecting orbital decay of hot Jupiters, and constraining axion-photon
+coupling with polarimetry of highly magnetized white dwarfs. Below are some more details about my current and past work. -->
+
+
+## Off-nuclear disruption events
+
+Occasionally, a star wanders too close to a supermassive black hole (SMBH) and is torn apart by the black hole’s powerful tidal forces. About half of the star’s material remains trapped in elongated orbits around the SMBH and gradually falls inward, forming a hot, swirling accretion disk that slowly feeds the SMBH. This dramatic process, known as a tidal disruption event (TDE), produces a luminous flare that can be seen across the electromagnetic spectrum. 
+
+Traditionally, TDEs are found at the centers of galaxies, where SMBHs normally reside. But recently, astronomers have begun to discover TDEs occurring far from galactic centers, revealing the presence of “wandering” SMBHs. Simulations suggest that these wandering black holes are common, often the result of galaxy mergers, gravitational-wave recoil kicks, or complex three-body interactions. Yet they remain invisible until they disrupt an unlucky star. How these black holes encounter stars at all is a fascinating puzzle, since the odds of a random interaction are tiny, implying that many may carry a clusters of stars with them. Offset TDEs also provide a rare opportunity to study how accretion disks form and evolve in cleaner environments, free from the contaminating glare of bright galactic centers. I currently lead two programs with the Hubble Space Telescope and the James Webb Space Telescope to explore these questions. 
+
 
 
 ## X-ray quasi-periodic eruptions
@@ -34,9 +42,9 @@ My current goals are to constrain the progenitor system(s) and explosion mechani
 
 ### Tidal disruption events (TDEs)
 
-Occasionally a star gets too close to a supermassive black hole (SMBH), at which point tidal forces on the star exceed its self gravity, tearing apart the ill-fated interloper. Roughly half of the stellar debris is bound in a range of highly-eccentric orbits around the SMBH, whereas the rest goes unbound. The bound material is expected to fall toward the SMBH, forming an accretion disk. All TDEs were originally expected to be extreme-ultraviolet (UV) and X-ray emitters. However, many of them were found to show bright near-UV/optical emission with a luminosity much higher than that in the X-ray band, igniting a long-standing controversy on the origin of the bright optical emission and on the apparent absence of X-rays in these TDEs. Two classes of solutions have been proposed: (i) the accretion disk does produce ample X-ray emission, but it gets reprocessed by an optically thick gas layer located at a distance much larger than the tidal radius and (ii) instead of accretion, TDEs are powered by shocks resulting from collision of streams in the outer regions of a highly-eccentric disk. One way to distinguish between these two models is to study the geometry of the gas around the black hole. 
+TDEs were originally expected to be extreme-ultraviolet (UV) and X-ray emitters. However, many of them were found to show bright near-UV/optical emission with a luminosity much higher than that in the X-ray band, igniting a long-standing controversy on the origin of the bright optical emission and on the apparent absence of X-rays in these TDEs. Two classes of solutions have been proposed: (i) the accretion disk does produce ample X-ray emission, but it gets reprocessed by an optically thick gas layer located at a distance much larger than the tidal radius and (ii) instead of accretion, TDEs are powered by shocks resulting from collision of streams in the outer regions of a highly-eccentric disk. One way to distinguish between these two models is to study the geometry of the gas around the black hole. 
 
-I led a spectropolarimetric study of the TDE known as AT 2019qiz, which provided the first direct constraint on a the distribution of gas around a black hole after stellar disruption. We found that polarization was consistent with 0 percent at maximum brightness and only modestly higher (1 percent) a month later. These observations lead us to conclude that the gas around a SMBH is not in highly eccentric disks. Instead, we find that a roughly spherical wind outflow from the TDE enshrouds any accretion disk inside, favoring the solution (i) introduced above.  
+I led a spectropolarimetric study of the TDE known as AT 2019qiz, which provided the first direct constraint on a the distribution of gas around a black hole after stellar disruption. We found that polarization was consistent with 0 percent at maximum brightness and only modestly higher (1 percent) a month later. These observations lead us to conclude that there is a nearly spherical wind outflow from the TDE that enshrouds the accretion flow at optical maximum, favoring the solution (i) introduced above.  
 
 **Relevant Publications**
 - [Spectropolarimetry of the Type Ia SN 2019ein rules out significant global asphericity of the ejecta](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.4058P/abstract)
