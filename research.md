@@ -25,8 +25,8 @@ details {
 }
 </style>
 
-<details open>
-  <summary>Off-nuclear tidal disruption events</summary>
+<details markdown="1" open>
+  <summary><strong>Off-nuclear tidal disruption events</strong></summary>
 
   Occasionally, a star wanders too close to a supermassive black hole (SMBH) and is torn apart by the black hole’s powerful tidal forces. About half of the star’s material remains trapped in elongated orbits around the SMBH and gradually falls inward, forming a hot, swirling accretion disk that slowly feeds the SMBH. This dramatic process, known as a tidal disruption event (TDE), produces a luminous flare that can be seen across the electromagnetic spectrum.  
 
