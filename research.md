@@ -34,7 +34,7 @@ details {
 
   Recently, we studied the first optically discovered off-nuclear TDE, AT 2024tvd, using the *James Webb Space Telescope* and the *Keck Observatory*. We found evidence for a massive NSC surrounding the wandering MBH, thereby linking a TDE to an NSC for the first time and confirming the long-standing theoretical idea that NSCs supply the stars ultimately disrupted in TDEs.  
 
-  Why is the MBH offset from the galactic center? The presence of an NSC, along with other observations—such as the absence of stellar disturbances or large-scale tidal features—supports the hypothesis that the MBH was brought into the host galaxy through a minor merger with a smaller galaxy that contained its own MBH and possibly an NSC. Over time, the outer stars of the merging galaxy would have been stripped away and mixed with the host, leaving behind only the dense stellar core surrounding the MBH.  
+  Why is the MBH offset from the galactic center? The presence of an NSC, along with other observations—--such as the absence of stellar disturbances or large-scale tidal features—--supports the hypothesis that the MBH was brought into the host galaxy through a minor merger with a smaller galaxy that contained its own MBH and possibly an NSC. Over time, the outer stars of the merging galaxy would have been stripped away and mixed with the host, leaving behind only the dense stellar core surrounding the MBH.  
 
 <embed src="/assets/img/2024tvd_disk_sed_fitting_NSC.pdf"
        type="application/pdf"
@@ -50,7 +50,12 @@ details {
 
   Quasi-periodic eruptions (QPEs) are a newly discovered phenomenon displaying repeating soft X-ray bursts every few hours up to a day. The origins of QPEs are poorly understood, although most theoretical explanations invoke an accretion disk around a supermassive black hole (SMBH). The gas and stellar environments in the galactic nuclei of these sources are also poorly constrained.  
 
-  By analyzing *Hubble Space Telescope* (HST) images of the first-ever discovered QPE source GSN 069, I found strong evidence for a compact nuclear [O III] emission region of size ≲ 35 pc. We deduced that the age of the accretion system was between 10 and 100 years, and inferred that the dense gas in the nuclear regions of GSN 069 originates from molecular clouds freshly ionized by the soft X-ray photons from the accretion disk. These findings provide evidence that a compact accretion disk (as opposed to a large AGN-like disk) is responsible for the origin of QPEs. Such small disks could result from stellar interactions with the SMBH (e.g. tidal disruption events).  
+  By analyzing *Hubble Space Telescope* (HST) images of the first-ever discovered QPE source GSN 069, we found strong evidence for a compact, nuclear [O III] emission region of size ≲ 35 pc. We deduced that the age of the accretion system was between 10 and 100 years, and inferred that the dense gas in the nuclear regions of GSN 069 originates from molecular clouds freshly ionized by the soft X-ray photons from the accretion disk. These findings provide evidence that a compact accretion disk (as opposed to a large AGN-like disk) is responsible for the origin of QPEs. Such small disks could result from stellar interactions with the SMBH (e.g. tidal disruption events).  
+
+<embed src="/assets/img/continuum_free_OIII_R1.pdf"
+       type="application/pdf"
+       width="100%"
+       height="600px" />
 
   **Relevant Publications**
   - [Constraints on the narrow-line region of the X-ray quasi-periodic eruption source GSN 069](https://ui.adsabs.harvard.edu/abs/2023arXiv231005574P/abstract)
@@ -61,7 +66,7 @@ details {
 
  **Supernova explosions**
 
-  Extragalactic supernovae (SNe) are spatially unresolvable, even with the best ground-based interferometers. For example, the most powerful ground-based interferometer, the Event Horizon Telescope, can currently achieve a resolution of ∼60 μas. For comparison, the minimum resolution required to study the geometry of a nearby SN, for instance 3 Mpc away, would be ∼10 μas. Fortunately, spectropolarimetry (specpol), which measures polarization as a function of wavelength, provides a unique approach to studying SN explosion geometry and structure.  
+  Extragalactic supernovae (SNe) are spatially unresolvable, even with the best ground-based interferometers. For example, the most powerful ground-based interferometer, the Event Horizon Telescope, can currently achieve a resolution of ∼60 μas. For comparison, the minimum resolution required to study the geometry of a nearby SN, for instance 3 Mpc away, would be ∼10 μas. Spectropolarimetry (specpol), which measures polarization as a function of wavelength, provides a unique approach to studying SN explosion geometry and structure.  
 
   <img src="/assets/img/specpol_img_website.JPG" class="center">  
 
