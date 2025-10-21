@@ -54,7 +54,7 @@ details {
 <details markdown="1" open>
   <summary><strong>Spectropolarimetry (specpol)</strong></summary>
 
-  ### Supernova explosions
+ **Supernova explosions**
 
   Extragalactic supernovae (SNe) are spatially unresolvable, even with the best ground-based interferometers. For example, the most powerful ground-based interferometer, the Event Horizon Telescope, can currently achieve a resolution of ∼60 μas. For comparison, the minimum resolution required to study the geometry of a nearby SN, for instance 3 Mpc away, would be ∼10 μas. Fortunately, spectropolarimetry (specpol), which measures polarization as a function of wavelength, provides a unique approach to studying SN explosion geometry and structure.  
 
@@ -66,7 +66,7 @@ details {
 
   <img src="/assets/img/pol_middle.JPG" class="center" width=700 height=700>  
 
-  ### Tidal disruption events (TDEs)
+  **Tidal disruption events (TDEs)**
 
   TDEs were originally expected to be extreme-ultraviolet (UV) and X-ray emitters. However, many of them show bright near-UV/optical emission with luminosities much higher than in the X-ray band, igniting a long-standing controversy about the origin of the optical emission and the apparent absence of X-rays. Two broad classes of solutions have been proposed:  
   (i) the accretion disk does produce ample X-ray emission, but it is reprocessed by an optically thick gas layer located far beyond the tidal radius; and  
