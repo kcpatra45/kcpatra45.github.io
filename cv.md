@@ -6,7 +6,7 @@ title: Curriculum Vitae
 
 My complete CV can be found <a href="https://kcpatra45.github.io/CV_KP_10172025.pdf" target="_blank">here.</a>
 
-[NASA/ADS publications list]([https://ui.adsabs.harvard.edu/user/libraries/P56vdUZHQ4WGvv20V_oR_Q](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22%20AND%20database%3A%22astronomy%22)&q=Patra%2C%20Kishore&sort=date%20desc%2C%20bibcode%20desc&p_=0))
+[NASA/ADS publications list](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=Patra%2C%20Kishore&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 <!---
 
