@@ -36,6 +36,11 @@ details {
 
   Why is the MBH offset from the galactic center? The presence of an NSC, along with other observations—such as the absence of stellar disturbances or large-scale tidal features—supports the hypothesis that the MBH was brought into the host galaxy through a minor merger with a smaller galaxy that contained its own MBH and possibly an NSC. Over time, the outer stars of the merging galaxy would have been stripped away and mixed with the host, leaving behind only the dense stellar core surrounding the MBH.  
 
+<embed src="/assets/img/2024tvd_disk_sed_fitting_NSC.pdf"
+       type="application/pdf"
+       width="100%"
+       height="600px" />
+
   **Relevant Publications**
   - [JWST and Keck Observations of the Off-Nuclear TDE AT 2024tvd: A Massive Nuclear Star Cluster and Minor-Merger Origin for its Black Hole](https://ui.adsabs.harvard.edu/abs/2025arXiv251012572P/abstract)
 </details>
