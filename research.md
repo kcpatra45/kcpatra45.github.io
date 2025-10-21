@@ -25,7 +25,7 @@ details {
 }
 </style>
 
-<details markdown="1" open>
+<details markdown="1">
   <summary><strong>Off-nuclear tidal disruption events</strong></summary>
 
   Occasionally, a star wanders too close to a supermassive black hole (SMBH) and is torn apart by the black hole’s powerful tidal forces. About half of the star’s material remains trapped in elongated orbits around the SMBH and gradually falls inward, forming a hot, swirling accretion disk that slowly feeds the SMBH. This dramatic process, known as a tidal disruption event (TDE), produces a luminous flare that can be seen across the electromagnetic spectrum.  
@@ -45,7 +45,7 @@ details {
   - [JWST and Keck Observations of the Off-Nuclear TDE AT 2024tvd: A Massive Nuclear Star Cluster and Minor-Merger Origin for its Black Hole](https://ui.adsabs.harvard.edu/abs/2025arXiv251012572P/abstract)
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
   <summary><strong>X-ray quasi-periodic eruptions</strong></summary>
 
   Quasi-periodic eruptions (QPEs) are a newly discovered phenomenon displaying repeating soft X-ray bursts every few hours up to a day. The origins of QPEs are poorly understood, although most theoretical explanations invoke an accretion disk around a supermassive black hole (SMBH). The gas and stellar environments in the galactic nuclei of these sources are also poorly constrained.  
@@ -56,7 +56,7 @@ details {
   - [Constraints on the narrow-line region of the X-ray quasi-periodic eruption source GSN 069](https://ui.adsabs.harvard.edu/abs/2023arXiv231005574P/abstract)
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
   <summary><strong>Spectropolarimetry (specpol)</strong></summary>
 
  **Supernova explosions**
@@ -87,7 +87,7 @@ details {
   - [Early-Time Spectropolarimetry of the Aspherical Type II Supernova SN 2023ixf](https://ui.adsabs.harvard.edu/abs/2023ApJ...955L..37V/abstract)
 </details>
 
-<details markdown="1" open>
+<details markdown="1">
   <summary><strong>Orbital decay of hot Jupiters</strong></summary>
 
   The orbits of many hot Jupiters are expected to shrink slowly due to tidal interactions between the planet and its host star. A hot Jupiter completes one orbit around its host star in ~1 day, whereas the star spins on its axis on a timescale of several tens of days. Consequently, the tidal bulge lags slightly behind the orbiting planet, tugging back on it, sapping angular momentum from the orbit, and transferring it to the stellar spin. Below is an illustration of the lagging tidal bulge.  
