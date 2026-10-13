@@ -6,11 +6,19 @@ title: Curriculum Vitae
 
 My complete CV can be found <a href="https://kcpatra45.github.io/CV_KP_update_Sep2026.pdf" target="_blank">here.</a>
 
-<a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Patra%2C%20Kishore%22&sort=date%20desc" target="_blank">
+<a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A%22Patra%2C%20Kishore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+" target="_blank">
 NASA/ADS publications list
 </a>
 
+
+
 <!---
+
+https://ui.adsabs.harvard.edu/search/q=author%3A%22Patra%2C%20Kishore%22&sort=date%20desc
+
+https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A%22Patra%2C%20Kishore%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+
 
 [NASA/ADS publications list](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=Patra%2C%20Kishore&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
