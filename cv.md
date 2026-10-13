@@ -4,7 +4,7 @@ title: Curriculum Vitae
 
 ---
 
-My complete CV can be found <a href="https://kcpatra45.github.io/CV_KP_10172025.pdf" target="_blank">here.</a>
+My complete CV can be found <a href="https://kcpatra45.github.io/CV_KP_update_Sep2026.pdf" target="_blank">here.</a>
 
 <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Patra%2C%20Kishore%22&sort=date%20desc" target="_blank">
 NASA/ADS publications list
