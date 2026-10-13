@@ -43,7 +43,30 @@ details {
 
   **Relevant Publications**
   - [JWST and Keck Observations of the Off-Nuclear TDE AT 2024tvd: A Massive Nuclear Star Cluster and Minor-Merger Origin for its Black Hole](https://ui.adsabs.harvard.edu/abs/2025arXiv251012572P/abstract)
+  - [JWST and Keck observations of the off-nuclear tidal disruption event TDE 2025abcr: An evolving reprocessing layer](https://ui.adsabs.harvard.edu/abs/2026arXiv260416093P/abstract)
 </details>
+
+
+
+
+<details markdown="1">
+  <summary><strong>Astronomical Instrumentation</strong></summary>
+
+Observational astronomy has well and truly entered its data-rich era. In time-domain astronomy, the Legacy Survey of Space and Time (LSST) has begun, and we are receiving millions of alerts each night. But an alert just tells us that something has changed, not what caused it. Spectroscopic observation gives these events a real astrophysical identity. Very few spectrographs can rapidly classify astrophysical transients through a fully automated, end-to-end process. We are building the Dual-channel Automatic Rapid Transient Spectrograph ([DARTS](https://www.ucobservatories.org/projects_at/darts/); PI Ryan Foley), which will be installed on the 2.4-m Automated Planet Finder telescope at Lick Observatory. Once commissioned, the DARTS+APF system will be the largest-aperture robotic telescope equipped with a fully automated, medium-resolution (R ≈ 1000) spectrograph. I am leading all aspects of software development for the instrument.
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details markdown="1">
   <summary><strong>X-ray quasi-periodic eruptions</strong></summary>
