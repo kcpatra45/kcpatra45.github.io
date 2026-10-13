@@ -104,7 +104,7 @@ He handed her the chillies in the polyethene bag and the crisp new five rupee no
 “What happened? That’s what I don’t know!” Arya thought. Without saying anything, she took the bag and notes from Mantu. She clasped the notes tightly into her palm, still unsure of what was wrong with her note in the first place. Did she count the ‘exactly two rupees’ correctly? She could count all the way to one hundred. How could she fail to count till two? Or was it the size of the notes that was wrong? She wondered, as she squeezed past the laughing women in colorful saris once again. There was a brief moment of silence as she left the shop. 
 Then suddenly everyone burst into another round of laughter. But Arya only wailed louder and louder, still unable to comprehend what had gone wrong. Wearing bright pink but oversized sandals, she walked briskly towards home.  
 
-<img width="468" height="648" alt="image" src="https://github.com/user-attachments/assets/6e2ac67f-9eed-4ca8-bd1e-6d24af345e40" />
+
 
 
 
