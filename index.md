@@ -10,7 +10,7 @@ I completed my PhD in 2024 from the Department of Astronomy at University of Cal
 
 I grew up in a small [village](https://www.google.com/maps/place/Gurapalli,+Odisha,+India/@19.635222,85.1417546,418m/data=!3m1!1e3!4m6!3m5!1s0x3a181b48bce3d58d:0x63a4a01fad728133!8m2!3d19.6187071!4d85.1142207!16s%2Fg%2F12hmp70sm?entry=ttu&g_ep=EgoyMDI1MDkyOC4wIKXMDSoASAFQAw%3D%3D) on the eastern coast of India, before moving to the UK on a [scholarship](https://www.pestalozzi.international/) and later to the US for higher education.  
 
-I spend most weekends playing [cricket](https://cricclubs.com/NCCA/viewPlayer.do?playerId=1437947&clubId=1191#parentHorizontalTab1) across Northern California. I enjoy trying out new hobbies---these days I'm learning chess, reading about development economics, exploring interesting maps, and entertaining an easily bored toddler.
+I spend most weekends playing [cricket](https://www.nccacricket.org/NCCA/user/Qm8pWGzahfRIXb6T5L2PlQ?playerName=Kishore+Patra) across Northern California. I enjoy trying out new hobbies---these days I'm learning chess, reading about development economics, exploring interesting maps, and entertaining an easily bored toddler.
 
 
 ## Contact
